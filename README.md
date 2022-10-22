@@ -7,8 +7,9 @@
 #####
 
 <p align="center">  
-<img src="https://github.com/yavuzyagiz/wordgame/blob/main/word-game-img.png" width="280">
-<img src="https://github.com/yavuzyagiz/animation-project/blob/main/img1.png" width="360">
+<img src="https://github.com/yavuzyagiz/wordgame/blob/main/word-game-img.png" width="360">
+<img src="https://github.com/yavuzyagiz/yavuzyagiz/blob/main/todolistapp.png" width="340">
+
 </p>
 
 
@@ -20,6 +21,10 @@
 
 <p align="center">  
 <img src="https://github.com/yavuzyagiz/animation-project/blob/main/img3.png" width="600">
+</p>
+
+<p align="center">  
+<img src="https://github.com/yavuzyagiz/animation-project/blob/main/img1.png" width="360">
 </p>
 
 <p align="center">
