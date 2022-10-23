@@ -7,9 +7,9 @@
 #####
 
 <p align="center">  
-<img src="https://github.com/yavuzyagiz/wordgame/blob/main/word-game-img.png" width="360">
-<img src="https://github.com/yavuzyagiz/yavuzyagiz/blob/main/todolistapp.png" width="340">
-
+<img src="https://github.com/yavuzyagiz/wordgame/blob/main/word-game-img.png" width="340">
+<img src="https://github.com/yavuzyagiz/yavuzyagiz/blob/main/todolistapp.png" width="320">
+<img src="https://github.com/yavuzyagiz/yavuzyagiz/blob/main/signup-screen.png?raw=true" width="320">
 </p>
 
 
