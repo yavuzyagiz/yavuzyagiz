@@ -2,4 +2,4 @@
 
 | Project Name | Description | Tech Stack | Screenshot |
 | --- | -- | -- | -- |
-| NoteView | A simple note-taking view built with SwiftUI. [View Project](https://github.com/yavuzyagiz/noteview) | Swift, SwiftUI | <img src="https://github.com/yavuzyagiz/noteview/blob/main/noteview/noteview3.gif"> |
+| NoteView | Note-taking view built with SwiftUI. AI-powered hand-drawn shape correction (circle, rectangle, triangle, etc.) – in development [View Project](https://github.com/yavuzyagiz/noteview) | Swift, SwiftUI | <img src="https://github.com/yavuzyagiz/noteview/blob/main/noteview/noteview3.gif"> |
